@@ -1,0 +1,29 @@
+<!DOCTYPE
+html
+>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	<title>Voter ID</title>
+	<style>
+		body {font-family : Arial, sans-serif; }
+		h2 {text-align	:center; }
+	</style>
+</head>
+<body>
+	<h2> Voter ID / मतदाता पहचान पत्र	</h2>
+	<p> <strong>Name / नाम:	</strong> {{ voter.name }} </p>
+	<p> <strong> EPIC Number: </strong> {{ voter.epic_number }} </p>
+	<p> <strong> Phone / फ़ोन: </strong> {{ voter.phone }} </p>
+	<p> <strong> Address / पता : </strong> {{ voter.address }}  </p>
+	<p> <strong>Age / आयु: </strong> {{ age }} years </p>
+	<p> <strong>Status / स्थिति : </strong> {{ voter.status }} </p>
+	{% if voter.photo_url %}
+		<p> <img src = "{{ voter.photo_url }}" width = "150" /> </p>
+	{% endif %}
+	
+	{% if voter.signature_url %}
+	<p> <img src = "{{ voter.signature_url }}" width = "150" /> </p>
+	{% endif %}
+</body>
+</html>

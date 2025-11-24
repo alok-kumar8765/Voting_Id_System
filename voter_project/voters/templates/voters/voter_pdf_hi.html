@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>मतदाता विवरण</title>
+    <style>
+        body { font-family: Mangal, Arial, sans-serif; }
+        h2 { text-align: center; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        td { padding: 8px; border: 1px solid #ccc; }
+    </style>
+</head>
+<body>
+    <h2>मतदाता विवरण</h2>
+    <table>
+        <tr><td>नाम</td><td>{{ voter.name }}</td></tr>
+        <tr><td>फोन</td><td>{{ voter.phone }}</td></tr>
+        <tr><td>EPIC</td><td>{{ voter.epic_number }}</td></tr>
+        <tr><td>क्षेत्र</td><td>{{ voter.constituency_name }}</td></tr>
+        <tr><td>बूथ</td><td>{{ voter.booth_name }}</td></tr>
+        <tr><td>आयु</td><td>{{ age }}</td></tr>
+    </table>
+</body>
+</html>
