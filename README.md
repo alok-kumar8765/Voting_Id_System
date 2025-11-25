@@ -1094,32 +1094,32 @@ WHERE b1.fingerprint_data = b2.fingerprint_data;
 
 | Output | Image |
 |--------|--------|
-| Voter List | ![](images/output1.png) |
-| Joined Data | ![](images/output2.png) |
-| Age Filter | ![](images/output3.png) |
-| Gender Filter | ![](images/output4.png) |
-| Underage Voters | ![](images/output5.png) |
-| Active Voters | ![](images/output6.png) |
-| State Filter | ![](images/output7.png) |
-| Recently Added | ![](images/output8.png) |
-| Duplicate Names | ![](images/output9.png) |
-| Age in 2025 | ![](images/output10.png) |
-| Max/Min State | ![](images/output11.png) |
-| Max/Min Constituency | ![](images/output12.png) |
-| Final Active | ![](images/output13.png) |
-| Multi-EPIC | ![](images/output14.png) |
-| Duplicate (Name+Phone) | ![](images/output15.png) |
+| Voter List | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output1.png) |
+| Joined Data | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output2.png) |
+| Age Filter | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output3.png) |
+| Gender Filter | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output4.png) |
+| Underage Voters | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output5.png) |
+| Active Voters | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output6.png) |
+| State Filter | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output7.png) |
+| Recently Added | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output8.png) |
+| Duplicate Names | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output9.png) |
+| Age in 2025 | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output10.png) |
+| Max/Min State | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output11.png) |
+| Max/Min Constituency | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output12.png) |
+| Final Active | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output13.png) |
+| Multi-EPIC | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output14.png) |
+| Duplicate (Name+Phone) | ![](https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/output15.png) |
 
 ---
 <p align="center">
 
   <!-- 🔥 Your Banner Image -->
-  <img src="images/banner.jpg" width="900" />
+  <img src="https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/banner.jpg" width="900" />
 
   <br><br>
 
   <!-- 🪪 Your Logo Image -->
-  <img src="images/logo.png" width="140" />
+  <img src="https://github.com/alok-kumar8765/Voter_Id_System/blob/main//images/logo.png" width="140" />
 
   <br><br>
 
