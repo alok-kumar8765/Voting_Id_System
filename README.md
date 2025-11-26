@@ -1136,6 +1136,9 @@ WHERE b1.fingerprint_data = b2.fingerprint_data;
 
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" />
 
+  [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/alok-kumar8765/Voting_Id_System)
+
+  <a href="https://deepwiki.com/alok-kumar8765/Voting_Id_System"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
 </p>
 ---
 
